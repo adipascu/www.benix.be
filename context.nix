@@ -2,6 +2,21 @@
   matrix_room = "#brunix:matrix.org";
 
   next_meetups = [
+    {
+      date = "Thursday October 22nd, 2026";
+      time = "18:00";
+      end_time = "20:00";
+      city = "Brussels";
+      venue = {
+        address = "Rue Osseghem 53, 1080 Molenbeek-Saint-Jean, Belgium";
+        url = "https://hsbxl.be/";
+        geolocation = {
+          latitude = 50.8552861;
+          longitude = 4.3214244;
+        };
+      };
+      program = "Open discussions and hacking on Nix and Guix.";
+    }
   ];
 
   last_meetups = [
