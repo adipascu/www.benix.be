@@ -8,11 +8,11 @@
       end_time = "20:00";
       city = "Brussels";
       venue = {
-        address = "Rue Osseghem 53, 1080 Molenbeek-Saint-Jean, Belgium";
-        url = "https://hsbxl.be/";
+        address = "HSBXL, Hackerspace Brussels, Rue Osseghem 53, 1080 Molenbeek, Brussels, Belgium";
+        url = "https://hsbxl.be/enter/";
         geolocation = {
-          latitude = 50.8552861;
-          longitude = 4.3214244;
+          latitude = 50.8556539;
+          longitude = 4.3210072;
         };
       };
       program = "Open discussions and hacking on Nix and Guix.";
